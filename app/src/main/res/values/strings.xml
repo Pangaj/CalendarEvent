@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalendarEvent</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="add_event">Add Event</string>
+</resources>
